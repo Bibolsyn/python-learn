@@ -4,4 +4,4 @@ if x1==x4 or x2==x3:
 else:
 	print("NO")
 else:
-	print("NO")
+	print(1*2)
