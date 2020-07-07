@@ -1,7 +1,8 @@
-x1,x2,x3,x4=input()
-if x1==x4 or x2==x3: 
-	print("YES")
-else:
-	print("NO")
-else:
-	print(1*2)
+# Число n можно считать так:
+n = int(input())
+b = int(input())
+# Выводите результат через print()
+
+# Пример на деление, вычисление частного и остатка:
+print(n // 16)
+print(b % 5)
