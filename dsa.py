@@ -1,8 +1,9 @@
-# Число n можно считать так:
-n = int(input())
-b = int(input())
-# Выводите результат через print()
-
-# Пример на деление, вычисление частного и остатка:
-print(n // 16)
-print(b % 5)
+Bibolsyn = input()
+x = len(Bibolsyn)
+i = 0
+x = x - 1
+k = 0
+if k == 1:
+  print("NO")
+else:
+  print("YES")
